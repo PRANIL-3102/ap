@@ -17,7 +17,7 @@ function App() {
 
         <h1>PhotographerVaiya</h1>
 
-        <p>Connect with us</p>
+        <p>AVISHEK PATRA</p>
       </section>
 
       <section className="social-links">
