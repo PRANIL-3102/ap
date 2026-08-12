@@ -351,3 +351,19 @@ body {
 
   mix-blend-mode: soft-light;
 }
+
+.instagram-icon {
+  color: #e4405f;
+}
+
+.facebook-icon {
+  color: #1877f2;
+}
+
+.whatsapp-icon {
+  color: #25d366;
+}
+
+.youtube-icon {
+  color: #ff0000;
+}

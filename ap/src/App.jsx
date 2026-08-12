@@ -23,25 +23,25 @@ function App() {
       <section className="social-links">
 <SocialCard
   name="Instagram"
-  icon={<FaInstagram size={20} />}
+  icon={<FaInstagram className="instagram-icon" size={20} />}
   url="https://www.instagram.com/photographervaiya?igsh=eXRiMWYwZ2tpd2k5"
 />
 
 <SocialCard
   name="Facebook"
-  icon={<FaFacebookF size={20} />}
+  icon={<FaFacebookF className="facebook-icon" size={20} />}
   url="https://www.facebook.com/profile.php?id=61576611087250"
 />
 
 <SocialCard
   name="WhatsApp"
-  icon={<FaWhatsapp size={20} />}
+  icon={<FaWhatsapp className="whatsapp-icon" size={20} />}
   url="https://wa.me/+917679148499"
 />
 
 <SocialCard
   name="YouTube"
-  icon={<FaYoutube size={20} />}
+  icon={<FaYoutube className="youtube-icon" size={20} />}
   url="https://youtube.com/@photographervaiya?si=E-LeLftkU7HQJHEz"
 />
 
