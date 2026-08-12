@@ -47,6 +47,7 @@ function App() {
 
 <SocialCard
 name="Website"
+icon={<div className="website-icon" style={{ fontSize: "20px" }}>🌐</div>}
 url="https://photographervaiya.vercel.app/"
 />
       </section>
